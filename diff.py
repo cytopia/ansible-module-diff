@@ -55,7 +55,7 @@ options:
         choices: [string, file, command]
         aliases: []
 
-    target_tyoe:
+    target_type:
         description:
             - Specify the input type of I(target).
         required: false
